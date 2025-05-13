@@ -1,2 +1,2 @@
 # CENV_lo_hice
-Es un breve repositorio de practica :D
+Es un breve repositorio de practica donde dirá "LO HICE :D"
